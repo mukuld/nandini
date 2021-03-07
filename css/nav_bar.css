@@ -17,8 +17,8 @@
    #head_nav li {
        float: left;
        background-color: #385;
-       /*background:url("../images/left.gif")*/
-       no-repeat left top;
+       /*background:url("../images/left.gif")
+       no-repeat left top; */
        margin: 0;
        padding: 0;
        border-left: 1px solid #333;
@@ -37,8 +37,8 @@
        float: left;
        display: block;
        text-align: center;
-       /*background:url("../images/right.gif")*/
-       no-repeat right top;
+       /*background:url("../images/right.gif")
+       no-repeat right top;*/
        padding: 4px 15px 4px 15px;
        text-decoration: none;
        font-weight: bold;
